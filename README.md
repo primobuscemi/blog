@@ -1,6 +1,6 @@
 ## blog for quant humanists 2018
 
-# Select a template
+### select a template
 
 Find a free Jekyll theme online, fork the repo, follow the readme installation instructions and create a blog for this course. Check the license to make sure that forking and modifying is acceptable to the original author.
 
@@ -13,7 +13,7 @@ Here are some resources for selecting a theme:
 * [JekyllThemes.io](https://jekyllthemes.io/)
 * [JekyllRC](http://themes.jekyllrc.org/)
 
-## Setup
+### setup
 
 After forking, I changed the name of the repository in Github to blog-template, cloned the repo to my local machine. 
 
