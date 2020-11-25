@@ -1,11 +1,13 @@
-title: Quant Humanists Blog
-author: Aurelia
-email: auremoser@gmail.com
+title: Pagina personale di Primo Buscemi
+author: Primo Buscemi
+email: primobuscemi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Some curious coding and cleverness.
+  …ogni uomo, ognuno di noi, per essere libero, per essere fedele alla propria dignità, deve essere sempre un eretico. (Leonardo Sciascia)
 
-twitter_username: auremoser 
-github_username:  auremoser
+
+
+twitter_username: PrimoBuscemi
+github_username:  primobuscemi
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
