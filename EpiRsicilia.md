@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: EpiRsicilia
+permalink: /epirsicilia/
 ---
 
 # Il mio progetto sul monitoraggio dell'epidemia di SARS-CoV2 in Sicilia: EpiRsicilia
